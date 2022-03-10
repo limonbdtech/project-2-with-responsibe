@@ -221,7 +221,7 @@ border-radius: 5px;
     font-weight: 200;
 }
 
-.grid_description{
+.grid_discription{
     grid-column: 2/3;  
     grid-row: 3/4;
     padding:2px 5px; 
@@ -281,7 +281,7 @@ border-radius: 5px;
     
     }
     
-    .grid_description{
+    .grid_discription{
 
         grid-column: 1/-1;
         margin-left: 200px;
